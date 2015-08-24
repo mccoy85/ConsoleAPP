@@ -6,3 +6,10 @@ C:\Users\daniel\documents\visual studio 2013\Projects\ConsoleApplication1\Consol
 C:\Users\daniel\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
 C:\Users\daniel\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
 C:\Users\daniel\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dmccoy\Desktop\Full Solution\consoleapplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\dmccoy\Desktop\Full Solution\consoleapplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\dmccoy\Desktop\Full Solution\consoleapplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\dmccoy\Desktop\Full Solution\consoleapplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\dmccoy\Desktop\Full Solution\consoleapplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\dmccoy\Desktop\Full Solution\consoleapplication1\ConsoleApplication1\bin\Release\GetDirSize.pdb
+C:\Users\dmccoy\Desktop\Full Solution\consoleapplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache

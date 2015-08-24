@@ -46,10 +46,11 @@ namespace ConsoleApplication1
                 else
                 {
                     Console.WriteLine("something else went wrong");
-                    Console.Read();
+                    
                 }
 
             });
+            
             Console.Read();
 
         }
